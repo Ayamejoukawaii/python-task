@@ -1,6 +1,6 @@
 ## week2 hello CHU
 
-###week2 hello CHU
+### week2 hello CHU
 TASK2
 <img width="662" height="656" alt="image" src="https://github.com/user-attachments/assets/f2519a30-fa9d-4ea9-978a-dd055da93a1a" />
 TASK3
